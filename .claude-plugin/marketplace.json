@@ -1,0 +1,24 @@
+{
+  "name": "sliday",
+  "owner": {
+    "name": "sliday",
+    "email": "stas@sliday.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Sliday",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tamp",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sliday/tamp-plugin.git"
+      },
+      "description": "Auto-start and manage the Tamp token compression proxy",
+      "version": "1.0.0",
+      "keywords": ["compression", "tokens", "proxy", "tamp", "optimization"],
+      "strict": true
+    }
+  ]
+}
