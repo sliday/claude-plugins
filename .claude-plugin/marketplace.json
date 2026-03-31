@@ -26,8 +26,8 @@
         "source": "url",
         "url": "https://github.com/sliday/alit-plugin.git"
       },
-      "description": "Track skill outcomes and discover skills by community success rate",
-      "version": "0.1.0",
+      "description": "Community skill intelligence — auto-suggests skills by success rate, silently tracks outcomes",
+      "version": "0.2.0",
       "keywords": ["skills", "tracking", "telemetry", "discovery"],
       "strict": true
     }
