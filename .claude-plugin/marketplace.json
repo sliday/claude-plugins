@@ -19,6 +19,17 @@
       "version": "1.0.0",
       "keywords": ["compression", "tokens", "proxy", "tamp", "optimization"],
       "strict": true
+    },
+    {
+      "name": "alit",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sliday/alit-plugin.git"
+      },
+      "description": "Track skill outcomes and discover skills by community success rate",
+      "version": "0.1.0",
+      "keywords": ["skills", "tracking", "telemetry", "discovery"],
+      "strict": true
     }
   ]
 }
