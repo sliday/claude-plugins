@@ -30,6 +30,17 @@
       "version": "0.2.0",
       "keywords": ["skills", "tracking", "telemetry", "discovery"],
       "strict": true
+    },
+    {
+      "name": "harn",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sliday/harn.git"
+      },
+      "description": "Harness Engineering for AI coding agents — CAR framework, security guardrails, quality gates, progressive disclosure",
+      "version": "1.0.0",
+      "keywords": ["harness", "engineering", "agents", "security", "hooks", "CAR"],
+      "strict": true
     }
   ]
 }
