@@ -41,6 +41,17 @@
       "version": "1.0.0",
       "keywords": ["harness", "engineering", "agents", "security", "hooks", "CAR"],
       "strict": true
+    },
+    {
+      "name": "clarify",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sliday/clarify.git"
+      },
+      "description": "Adaptive interview plugin — asks binary questions before coding, outputs PLAN.md",
+      "version": "0.5.0",
+      "keywords": ["interview", "planning", "requirements", "clarify", "PLAN.md"],
+      "strict": true
     }
   ]
 }
