@@ -43,14 +43,14 @@
       "strict": true
     },
     {
-      "name": "clarify",
+      "name": "method",
       "source": {
         "source": "url",
-        "url": "https://github.com/sliday/clarify.git"
+        "url": "https://github.com/sliday/method.git"
       },
       "description": "Adaptive interview plugin — asks binary questions before coding, outputs PLAN.md",
       "version": "0.5.0",
-      "keywords": ["interview", "planning", "requirements", "clarify", "PLAN.md"],
+      "keywords": ["interview", "planning", "requirements", "method", "PLAN.md"],
       "strict": true
     }
   ]
