@@ -48,9 +48,9 @@
         "source": "url",
         "url": "https://github.com/sliday/method.git"
       },
-      "description": "Adaptive interview plugin — asks binary questions before coding, outputs PLAN.md",
+      "description": "Adaptive clinical interview — binary yes/no questions before coding, outputs PLAN.md. Differential diagnosis for software requirements.",
       "version": "0.5.0",
-      "keywords": ["interview", "planning", "requirements", "method", "PLAN.md"],
+      "keywords": ["interview", "planning", "requirements", "method", "PLAN.md", "differential-diagnosis", "adaptive-clinical-interview", "binary-questions", "TRIZ", "Kepner-Tregoe", "decision-tree", "contradiction-detection", "requirements-gathering", "clarify"],
       "strict": true
     }
   ]
