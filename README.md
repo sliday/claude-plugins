@@ -5,7 +5,7 @@ Claude Code plugin marketplace by [Sliday](https://sliday.com).
 ## Install
 
 ```bash
-claude plugins add-marketplace sliday/claude-plugins
+claude plugins marketplace add sliday/claude-plugins
 ```
 
 ## Plugins
