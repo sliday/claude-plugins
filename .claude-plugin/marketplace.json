@@ -49,7 +49,7 @@
         "url": "https://github.com/sliday/plea.git"
       },
       "description": "Adaptive clinical interview — binary yes/no questions before coding, outputs PLAN.md. Differential diagnosis for software requirements.",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "keywords": ["interview", "planning", "requirements", "plea", "PLAN.md", "differential-diagnosis", "adaptive-clinical-interview", "binary-questions", "TRIZ", "Kepner-Tregoe", "decision-tree", "contradiction-detection", "requirements-gathering", "clarify"],
       "strict": true
     }
